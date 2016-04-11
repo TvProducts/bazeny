@@ -1,1 +1,1 @@
-# bazeny
+# bazeny change dialog
